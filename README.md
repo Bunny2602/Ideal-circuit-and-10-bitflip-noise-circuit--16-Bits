@@ -1,4 +1,4 @@
-BB84 Protocol Simulation with Ideal and Noisy Circuits
+BB84 Protocol Simulation with Ideal and Noisy Circuits - Developed by Shalbani Das and Ajanta Das
 
 This repository contains Python implementations of the BB84 quantum key distribution protocol, executed using AWS Braket. The implementations simulate both an ideal quantum circuit and a noisy circuit with 10% bit-flip noise. The circuits are designed to explore quantum communication in perfect and error-prone environments.
 
